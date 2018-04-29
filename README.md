@@ -187,7 +187,7 @@ Curated collection of blockchain &amp; cryptocurrency links.
 * [Beincrypto](https://beincrypto.com) - Aggregates all the crypto jobs from major job boards.
 * [Jobs by BlockRepublic](http://blockrepublic.io/blockchain-jobs/) - Useful filters, locations & categories.
 * [Crypto Jobs List](https://cryptojobslist.com/) - Curated jobs from top verified blockchain companies.
-
+* [BLOCKCHAINJOBZ](https://blockchainjobz.com/) - Connecting talent with the best companies in the blockchain and cryptospace.
 
 # Wallets
 * [Bitcoin Core](https://bitcoin.org/en/download) - Bitcoin Core is MIT licensed open source Bitcoin wallet. It runs own full node so 145GG of free disk space is required. OSX/Linux/Windows/Ubuntu.
